@@ -7,6 +7,3 @@ greeting
 greeting
 greeting
 greeting
-$ ruby greeting.rb 
-$
-ruby lib/example.rb
