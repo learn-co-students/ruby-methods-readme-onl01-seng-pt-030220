@@ -1,2 +1,3 @@
-$ ruby greeting.rb 
+$ ruby greeting.rb
+Hello World
 $
