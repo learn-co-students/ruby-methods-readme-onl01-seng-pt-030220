@@ -8,7 +8,8 @@ cover how to create and execute them in your Ruby program.
 You can follow along using IRB by typing `irb` in your terminal and copying the
 provided code examples. Alternatively, in the `lib` folder, there is also a
 file, `example.rb`, that you can use to copy the code examples into. You can run
-this file from the lesson's main directory by typing `ruby lib/example.rb` to
+this file from the lesson's main directory by typing `ruby
+lib/example.rb` to
 see what it produces.
 
 ## Objectives
